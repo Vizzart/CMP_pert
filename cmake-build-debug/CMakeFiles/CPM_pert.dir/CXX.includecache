@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matcisz/CLionProjects/CPM_pert/Activity.cpp
+Activity.h
+/Users/matcisz/CLionProjects/CPM_pert/Activity.h
+
+/Users/matcisz/CLionProjects/CPM_pert/Activity.h
+
+/Users/matcisz/CLionProjects/CPM_pert/Graph.cpp
+Graph.h
+/Users/matcisz/CLionProjects/CPM_pert/Graph.h
+
+/Users/matcisz/CLionProjects/CPM_pert/Graph.h
+
+/Users/matcisz/CLionProjects/CPM_pert/Incident.cpp
+Incident.h
+/Users/matcisz/CLionProjects/CPM_pert/Incident.h
+
+/Users/matcisz/CLionProjects/CPM_pert/Incident.h
+

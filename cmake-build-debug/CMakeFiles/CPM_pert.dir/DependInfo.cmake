@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/matcisz/CLionProjects/CPM_pert/Activity.cpp" "/Users/matcisz/CLionProjects/CPM_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Activity.cpp.o"
-  "/Users/matcisz/CLionProjects/CPM_pert/Graph.cpp" "/Users/matcisz/CLionProjects/CPM_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Graph.cpp.o"
-  "/Users/matcisz/CLionProjects/CPM_pert/Incident.cpp" "/Users/matcisz/CLionProjects/CPM_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Incident.cpp.o"
-  "/Users/matcisz/CLionProjects/CPM_pert/Program.cpp" "/Users/matcisz/CLionProjects/CPM_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Program.cpp.o"
+  "/Dane/Coding/Cpp/Mati/CMP_pert/Activity.cpp" "/Dane/Coding/Cpp/Mati/CMP_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Activity.cpp.o"
+  "/Dane/Coding/Cpp/Mati/CMP_pert/Graph.cpp" "/Dane/Coding/Cpp/Mati/CMP_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Graph.cpp.o"
+  "/Dane/Coding/Cpp/Mati/CMP_pert/Incident.cpp" "/Dane/Coding/Cpp/Mati/CMP_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Incident.cpp.o"
+  "/Dane/Coding/Cpp/Mati/CMP_pert/Program.cpp" "/Dane/Coding/Cpp/Mati/CMP_pert/cmake-build-debug/CMakeFiles/CPM_pert.dir/Program.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

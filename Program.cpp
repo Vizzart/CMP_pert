@@ -80,9 +80,9 @@ int main() {
 
     Graph graph = Graph(&allActivities);
 
-    std::cout<<graph.toString()<<std::endl;
+//    std::cout<<graph.toString()<<std::endl;
 
-    std::cout<<actM.getLongestParentsDuration()<<std::endl;
+    std::cout<< actM.calcTotalDuration() <<std::endl;
 
     std::cout<<graph.toString()<<std::endl;
 
